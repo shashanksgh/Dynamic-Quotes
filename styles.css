@@ -1,0 +1,44 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: #6495ED;
+}
+
+#main {
+    background-color: #00FFFF;
+    height: 100%;
+    margin: 200px auto;
+    padding: 15px;
+    text-align: center;
+    width: 50%;
+    border-radius: 5px;
+}
+
+#quotes {
+    margin: 5px;
+    background: #d3d3d3;
+    padding: 5px;
+    color: black;
+    border-radius: 5px;
+}
+
+#author {
+    margin: 5px;
+    /* margin-left: 505px; */
+    background: #d3d3d3;
+    padding: 5px;
+    color: black;
+    text-align: center;
+    /* width: 200px; */
+    border-radius: 5px;
+}
+
+button {
+    background: #483D8B;
+    padding: 5px;
+    color: white;
+    margin-top: 10px;
+}
